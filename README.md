@@ -27,19 +27,19 @@ Real-World Scenarios  |  Production incidents, deployment failures, root-cause a
 
 🗂️ **Repository Structure**
 
-01-linux/ — Linux administration and troubleshooting
-02-git-github/ — Version control and collaboration
-03-shell-scripting/ — Bash scripting and automation
-04-jenkins-cicd/ — CI/CD pipelines and build automation
-05-docker/ — Containerization and Docker troubleshooting
-06-kubernetes/ — Container orchestration and production debugging
-07-aws/ — AWS services and cloud infrastructure
-08-terraform/ — Infrastructure as Code
-09-ansible/ — Configuration management
-10-monitoring-sre/ — Observability and reliability engineering
-11-networking-security/ — Networking and security fundamentals
-12-scenarios/ — Production troubleshooting scenarios
-13-projects/ — Project architecture and interview explanations
+- **`01-linux/`** — Linux administration and troubleshooting
+- **`02-git-github/`** — Version control and collaboration
+- **`03-shell-scripting/`** — Bash scripting and automation
+- **`04-jenkins-cicd/`** — CI/CD pipelines and build automation
+- **`05-docker/`** — Containerization and Docker troubleshooting
+- **`06-kubernetes/`** — Container orchestration and production debugging
+- **`07-aws/`** — AWS services and cloud infrastructure
+- **`08-terraform/`** — Infrastructure as Code
+- **`09-ansible/`** — Configuration management
+- **`10-monitoring-sre/`** — Observability and reliability engineering
+- **`11-networking-security/`** — Networking and security fundamentals
+- **`12-scenarios/`** — Production troubleshooting scenarios
+- **`13-projects/`** — Project architecture and interview explanations
 
 🧠 **How to Use This Repository**
 
