@@ -7,14 +7,15 @@ A structured, continuously updated collection of DevOps interview questions, det
 Build strong theoretical and practical knowledge to prepare for DevOps Engineer, Cloud Engineer, Platform Engineer, and Site Reliability Engineer (SRE) interviews.
 
 📚 **Topics Covered**
+
 --------------------------------------------------------------------------------------
-Topic                 |  Coverage
----------------------------------------------------------------------------------------
+Topic                 |  Coverage                                                     
+|---|---|
 Linux                 |  Processes, permissions, system administration, troubleshooting
 Git & GitHub          |  Branching, merging, rebasing, conflicts, workflows
 Shell Scripting       |  Bash, automation, loops, functions, error handling
 Jenkins & CI/CD       |  Pipelines, agents, builds, deployments, debugging
-Docker                |  Images, containers, networking, volumes, security
+Docker                |  Images, containers, networking, volumes, securit
 Kubernetes            |  Architecture, Pods, Deployments, Services, troubleshooting
 AWS                   |  IAM, EC2, VPC, S3, EKS, load balancing, monitoring
 Terraform             |  Infrastructure as Code, state, modules, workspaces
@@ -22,7 +23,6 @@ Ansible               |  Inventory, playbooks, roles, variables, automation
 Monitoring & SRE      |  Prometheus, Grafana, SLIs, SLOs, incident response
 Networking & Security |  DNS, HTTP/HTTPS, TLS, firewalls, access control
 Real-World Scenarios  |  Production incidents, deployment failures, root-cause analysis
------------------------------------------------------------------------------------------
 
 
 🗂️ **Repository Structure**
